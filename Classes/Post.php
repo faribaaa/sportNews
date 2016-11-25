@@ -16,9 +16,5 @@ class Posts
         return mysqli_fetch_array($result);
     }
 
-    function register($user,$pass,$email,$gender,$city){
-        $q = "INSERT INTO `tbl_user` VALUES (NULL, '$user', '$pass', '$email', '$gender', '$city')";
-        mysqli_query($q,$this->db);
-    }
 
 }

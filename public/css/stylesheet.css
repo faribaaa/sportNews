@@ -1,0 +1,14 @@
+
+body{
+    font-family: Tahoma;
+    font-size: 15px;
+}
+.navbar-default {
+    background-color: #fef9e4;
+    border-color: #000000;
+}
+.carousel-inner {
+    margin-top: 55px;
+    margin-right: 140px;
+    float: right;
+}
