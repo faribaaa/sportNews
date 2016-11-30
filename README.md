@@ -1,3 +1,0 @@
-# sportNews 
-
-Project for bestGirl

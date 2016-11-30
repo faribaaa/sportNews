@@ -3,12 +3,20 @@ body{
     font-family: Tahoma;
     font-size: 15px;
 }
-.navbar-default {
-    background-color: #fef9e4;
-    border-color: #000000;
+#menu2{
+    margin-top: 5px;
 }
-.carousel-inner {
+
+.slide_show{
     margin-top: 55px;
-    margin-right: 140px;
-    float: right;
+    margin-right: 100px;
+}
+.navbar-main{
+    margin-right: 150px;
+}
+.nav > li {
+      margin-right: 20px;
+}
+#navbar1{
+    margin-right: 120px;
 }
