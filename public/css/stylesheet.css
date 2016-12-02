@@ -4,19 +4,17 @@ body{
     font-size: 15px;
 }
 #menu2{
-    margin-top: 5px;
+    margin-top: 22px;
 }
-
-.slide_show{
-    margin-top: 55px;
-    margin-right: 100px;
+#nav-fix-clear{
+    height: 10px;
 }
-.navbar-main{
+#navbar2{
+    margin-top: 0px;
+}
+.navbar-nav2{
     margin-right: 150px;
 }
-.nav > li {
-      margin-right: 20px;
-}
-#navbar1{
-    margin-right: 120px;
+.navbar-nav1{
+    margin-right: 50px;
 }
