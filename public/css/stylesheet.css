@@ -15,6 +15,7 @@ body {
     color: #faf2cc;
 }
 #menu2{
+<<<<<<< HEAD
     background-color: #e74f13;
     height: 60px;
 }
@@ -61,3 +62,19 @@ body {
     height: 290px;
     width: 670px;
 }
+=======
+    margin-top: 22px;
+}
+#nav-fix-clear{
+    height: 10px;
+}
+#navbar2{
+    margin-top: 0px;
+}
+.navbar-nav2{
+    margin-right: 150px;
+}
+.navbar-nav1{
+    margin-right: 50px;
+}
+>>>>>>> origin/master
