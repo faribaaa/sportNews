@@ -1,22 +1,63 @@
 
-body{
+body {
     font-family: Tahoma;
     font-size: 15px;
+
+}
+.top_menu{
+    background-color: #122b40;
+}
+.logo_left{
+    float: left;
+    margin-top: -30px;
+}
+.header1{
+    color: #faf2cc;
 }
 #menu2{
-    margin-top: 5px;
+    background-color: #e74f13;
+    height: 60px;
 }
+.header_left{
+    float: left;
+    color: #d9edf7;
+    margin-top: -25px;
+}
+.nav{
+    margin-top: -40px;
 
-.slide_show{
-    margin-top: 55px;
-    margin-right: 100px;
 }
-.navbar-main{
-    margin-right: 150px;
+#txt_header{
+    margin-right: 250px;
+    color:#d9edf7;
 }
-.nav > li {
-      margin-right: 20px;
+#txt {
+    margin-top: -35px;
+    margin-right: 70px;
+    color: #d9edf7;
 }
-#navbar1{
-    margin-right: 120px;
+#main_left{
+    float: left;
+}
+#nav-fix-clear{
+    height: 10px;
+    background-color: #F2EAEA;
+}
+.box_main_right{
+    border: 1px solid rgb(207, 207, 207);
+    margin-right: 50px;
+}
+.box_main_left{
+    border: 1px solid rgb(207, 207, 207);
+    margin-left: 50px;
+}
+#txt_main_right{
+    margin-top: 0px;
+}
+#txt_main_left{
+    margin-top: 0px;
+}
+.carousel-inner{
+    height: 290px;
+    width: 670px;
 }
