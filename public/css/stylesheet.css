@@ -6,14 +6,17 @@ body {
 }
 .top_header{
     background-color:#150868;
-    margin-top: -10px;
+    margin-top: -15px;
 }
 .navbar-nav > li > a{
     color: #faf2cc;
+   }
+.nav > li > a {
+
 }
 .head_left{
     float: left;
-    margin-top: 15px;
+    margin-top: 10px;
     margin-left: 10px;
 }
 .top_menu{
@@ -24,31 +27,51 @@ body {
     height: 3px;
     background: #C9C8D5;
 }
+#img_menu{
+    margin-right: 10px;
+    margin-top: -5px;
+}
 #logo{
-    float: left;
     margin-top: 15px;
     color: #f8f8f8;
 }
 .container{
-    height: 65px;
+    height: 55px;
     margin-top: 10px;
+    width: 1000px;
 }
-#txt_menu_left{
-    margin-left: -50px;
+#txt_menu{
     border: 1px solid rgb(207, 207, 207);
-    border-radius: 20px 20px 20px 20px;
-    background-color: #F5F2F1
+    border-radius: 15px 15px 15px 15px;
+    background-color:#150868;
+    padding-top: 10px;
+    font-size: 14px;
+    list-style: none;
 }
-#txt_menu_right{
-    margin-right: -50px;
-    border: 1px solid rgb(207, 207, 207);
-    border-radius: 20px 20px 20px 20px;
-    background-color: #F5F2F1
-}
+
 .carousel-inner {
-    height: 290px;
-    border-radius: 20px 20px 20px 20px;
+    height: 260px;
+
 }
 .img{
     margin-left: 15px;
+}
+.drop_menu{
+    border: 1px solid #656161;
+    width: 200px;
+    float: left;
+    height: 53px;
+    margin-top: -4px;
+    background-color: #ffffff;
+}
+
+.img_drop{
+    padding-top: 20px;
+    margin-right: 10px;
+}
+
+.box_menu_left > li{
+    margin-right: -10px;
+    padding-top: 35px;
+
 }

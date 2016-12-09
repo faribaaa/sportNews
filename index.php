@@ -24,20 +24,17 @@ include "footer.php";
 <div id="nav-fix-clear"></div>
 <div class="row">
     <div class="container">
-        <div class="col-lg-2">
-            <div class="box_menu_left">
-                <ul class="nav navbar-collapse" id="txt_menu_right">
-                    <li><a href="#"> جدول پخش یرنامه ها</a> </li>
-                    <hr>
-                    <li><a href="#">  برنامه های تخصصی</a> </li>
-                    <hr>
-                    <li><a href="#"> ویدوئوها</a> </li>
-                    <hr>
+        <div class="col-lg-3">
+            <div class="">
+                <ul class="box_menu_left" id="txt_menu">
+                    <li><img src="public/images/icons/live_icon.png" style="width: 25px;"><a href="#"> جدول پخش یرنامه ها</a> </li>
+                    <li><img src="public/images/icons/prog_list.png" style="width: 25px;"><a href="#">  برنامه های تخصصی</a> </li>
+                    <li><img src="public/images/icons/videoic.png" style="width: 25px;"><a href="#"> ویدوئوها</a> </li>
                     <li><a href="#">  راه ها ی ارتباطی</a> </li>
                 </ul>
             </div>
         </div>
-        <div class="col-lg-8">
+        <div class="col-lg-6">
             <div class="box_menu_center">
                 <div class="slide_show">
                     <div id="top_slider" class="carousel slide" data-ride="carousel">
@@ -64,21 +61,32 @@ include "footer.php";
                 </div>
             </div>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-3">
             <div class="box_menu_right">
-                <ul class="nav navbar-collapse" id="txt_menu_left">
+                <ul class="nav navbar-collapse" id="txt_menu">
                     <li><a href="#">رویدادهای ورزشی</a> </li>
-                    <hr>
                     <li><a href="#">بسکتبال حرفه ای</a> </li>
-                    <hr>
                     <li><a href="#">لیگ بسکتبال</a> </li>
-                    <hr>
                     <li><a href="#">فوتبال انگلستان</a> </li>
                 </ul>
             </div>
         </div>
     </div>
 </div>
-
+<div class="row">
+    <div class="container">
+        <div class="panel_body">
+            <div class="col-lg-4">
+                <div class="top_body">fffff</div>
+            </div>
+            <div class="col-lg-4">
+                <div class="main_body">eee</div>
+            </div>
+            <div class="col-lg-4">
+                <div class="footer_body">ddddddddd</div>
+            </div>
+        </div>
+    </div>
+</div>
 </body>
 </html>
